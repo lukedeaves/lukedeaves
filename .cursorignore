@@ -1,4 +1,4 @@
-# Disallow git tracking
+# Disallow indexing and AI processing
 
 # OS
 .DS_Store
@@ -9,7 +9,3 @@
 # Python
 __pycache__/
 *.pyc
-
-# Testing
-test*
-*.log
