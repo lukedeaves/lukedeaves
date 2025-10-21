@@ -9,3 +9,9 @@
 # Python
 __pycache__/
 *.pyc
+
+# Obsidian
+.obsidian/
+
+# DevOps
+.order
