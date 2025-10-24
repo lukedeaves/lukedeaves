@@ -5,6 +5,7 @@
 
 # Environment
 .env
+tokens.ini
 
 # Python
 __pycache__/
