@@ -2,9 +2,11 @@
 
 # OS
 .DS_Store
+Thumbs.db
 
 # Environment
 .env
+.venv/
 tokens.ini
 
 # Python
